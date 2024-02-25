@@ -61,8 +61,8 @@ This project contains 4 files
   * StepLR scheduler is used for gradual learning rate reduction.
 * define cross entropy loss function
 * for every epoch,
-  * train the model and print the train loss and accuracy
-  * evaluate model and print the test loss and accuracy
+  * train the model with MNIST train data and print the train loss and accuracy
+  * evaluate model with MNIST train data and print the test loss and accuracy
   * use scheduler to decay learning rate by gamma ( which will apply for 15 steps [lr = lr * gamma] )
 
 ### Model evaluation
