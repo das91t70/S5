@@ -69,13 +69,13 @@ This project contains 4 files
 
 We have achieved accuracy of around 99.23% on test data and avg loss around 0.02 after 20 epochs.
 
-![Alt Text](https://github.com/das91t70/S5/tree/main/img2.png?raw=true)
+![Alt Text](img2.png)
 
 
 ### Visualise Losses and Accuracy over epochs
 
 
-![Alt Text](https://github.com/das91t70/S5/tree/main/img1.png?raw=true)
+![Alt Text](img1.png)
 
 
 
