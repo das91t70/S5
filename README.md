@@ -2,10 +2,10 @@
 
 This project contains 4 files
 
-* model.py - It contains Convolutional Neural Network to train MNIST dataset
-* utils.py - It contains utilities to train , test the model and to visualise the loss and accuracy of model for the given data
-* S5.ipynb - It contains code to import required packages, device to choose, load and prepare mnist data and calls function to train, evaluate and visualise the model loss and accuracy on MNIST data.
-* README.md - It contains project description and explanation of functionality
+* ***model.py*** - It contains Convolutional Neural Network to train MNIST dataset
+* ***utils.py*** - It contains utilities to train , test the model and to visualise the loss and accuracy of model for the given data
+* ***S5.ipynb*** - It contains code to import required packages, device to choose, load and prepare mnist data and calls function to train, evaluate and visualise the model loss and accuracy on MNIST data.
+* ***README.md*** - It contains project description and explanation of functionality
 
 ### Convolutional Neural Network ( ***models.py*** )
 
