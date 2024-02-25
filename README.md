@@ -5,6 +5,7 @@ This project contains 4 files
 * model.py - It contains Convolutional Neural Network to train MNIST dataset
 * utils.py - It contains utilities to train , test the model and to visualise the loss and accuracy of model for the given data
 * S5.ipynb - It contains code to import required packages, device to choose, load and prepare mnist data and calls function to train, evaluate and visualise the model loss and accuracy on MNIST data.
+* README.md - It contains project description and explanation of functionality
 
 ### Convolutional Neural Network ( ***models.py*** )
 
@@ -68,13 +69,13 @@ This project contains 4 files
 
 We have achieved accuracy of around 99.23% on test data and avg loss around 0.02 after 20 epochs.
 
-![Alt Text](https://github.com/das91t70/S5/tree/main/img2.png "Model loss and accuracy after 20 epochs")
+![Alt Text](https://github.com/das91t70/S5/tree/main/img2.png?raw=true)
 
 
 ### Visualise Losses and Accuracy over epochs
 
 
-![Alt Text](https://github.com/das91t70/S5/tree/main/img1.png "Train, test losses and accuracy over epochs")
+![Alt Text](https://github.com/das91t70/S5/tree/main/img1.png?raw=true)
 
 
 
